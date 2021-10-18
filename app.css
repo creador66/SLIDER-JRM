@@ -200,7 +200,7 @@ a.movie-item:hover {
 }
 
 .hero-slide-item {
-    padding-top: 40%;
+    padding-top: 24%;
     position: relative;
     overflow: hidden;
 }
@@ -542,7 +542,7 @@ footer .content {
     }
 
     .hero-slide-item {
-        padding-top: 50%;
+        padding-top: 24%;
     }
 
     .item-content-wraper {
